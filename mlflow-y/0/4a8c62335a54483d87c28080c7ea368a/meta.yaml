@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4a8c62335a54483d87c28080c7ea368a/artifacts
+end_time: 1764490957074
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4a8c62335a54483d87c28080c7ea368a
+run_name: gifted-lark-697
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764490956619
+status: 3
+tags: []
+user_id: guts

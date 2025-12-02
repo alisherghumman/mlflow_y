@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/9a734244e68e4110a07df5c733f0acf1/artifacts
+end_time: 1764490223196
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9a734244e68e4110a07df5c733f0acf1
+run_name: beautiful-trout-992
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764490222750
+status: 3
+tags: []
+user_id: guts

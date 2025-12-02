@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/04220a99d2e547a1b2ab0b67dd1d8ebd/artifacts
+end_time: 1764480539345
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 04220a99d2e547a1b2ab0b67dd1d8ebd
+run_name: dapper-frog-865
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764480538709
+status: 3
+tags: []
+user_id: guts

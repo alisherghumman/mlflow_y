@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/09d12f96ff864e409308b09802ac0774/artifacts
+end_time: 1764490809183
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 09d12f96ff864e409308b09802ac0774
+run_name: nosy-midge-633
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764490808741
+status: 3
+tags: []
+user_id: guts

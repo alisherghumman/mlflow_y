@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/657e85d486fa478e8675a107e6d83a9d/artifacts
+end_time: 1764489999319
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 657e85d486fa478e8675a107e6d83a9d
+run_name: grandiose-horse-468
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764489998856
+status: 3
+tags: []
+user_id: guts

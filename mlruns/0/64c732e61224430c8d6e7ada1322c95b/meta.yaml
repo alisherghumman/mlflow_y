@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/64c732e61224430c8d6e7ada1322c95b/artifacts
+end_time: 1764480637993
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 64c732e61224430c8d6e7ada1322c95b
+run_name: secretive-kit-987
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764480637208
+status: 3
+tags: []
+user_id: guts

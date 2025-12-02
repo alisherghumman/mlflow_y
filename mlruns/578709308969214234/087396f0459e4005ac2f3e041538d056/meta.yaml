@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/578709308969214234/087396f0459e4005ac2f3e041538d056/artifacts
+end_time: 1764554761321
+entry_point_name: ''
+experiment_id: '578709308969214234'
+lifecycle_stage: active
+run_id: 087396f0459e4005ac2f3e041538d056
+run_name: nimble-elk-311
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764554757791
+status: 3
+tags: []
+user_id: guts

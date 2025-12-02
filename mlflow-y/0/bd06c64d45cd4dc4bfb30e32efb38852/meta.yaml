@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bd06c64d45cd4dc4bfb30e32efb38852/artifacts
+end_time: 1764490903396
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bd06c64d45cd4dc4bfb30e32efb38852
+run_name: honorable-auk-666
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764490902951
+status: 3
+tags: []
+user_id: guts

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/bc0970c8394c408f8803809bc0583f6e/artifacts
+end_time: 1764478796480
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc0970c8394c408f8803809bc0583f6e
+run_name: bald-ram-776
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764478796232
+status: 3
+tags: []
+user_id: guts

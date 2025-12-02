@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/2b25c03a0db04b69adb8f469786b81ee/artifacts
+end_time: 1764494862274
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2b25c03a0db04b69adb8f469786b81ee
+run_name: mercurial-shrew-119
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764494857342
+status: 3
+tags: []
+user_id: guts

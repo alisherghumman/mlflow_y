@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/6aff87d141da4478bd4e44bcec18cfc7/artifacts
+end_time: 1764490009295
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6aff87d141da4478bd4e44bcec18cfc7
+run_name: overjoyed-fly-47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764490008847
+status: 3
+tags: []
+user_id: guts

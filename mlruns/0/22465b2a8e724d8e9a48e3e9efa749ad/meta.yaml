@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/22465b2a8e724d8e9a48e3e9efa749ad/artifacts
+end_time: 1764480828405
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 22465b2a8e724d8e9a48e3e9efa749ad
+run_name: useful-auk-305
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764480827666
+status: 3
+tags: []
+user_id: guts

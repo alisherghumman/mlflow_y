@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/4ce98ccf21b74a579ace5a8713577d84/artifacts
+end_time: 1764480470281
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ce98ccf21b74a579ace5a8713577d84
+run_name: worried-grub-157
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764480469612
+status: 3
+tags: []
+user_id: guts

@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/1b1d86cd6ea248ecae75f0690f6de011/artifacts
+end_time: 1764489936907
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1b1d86cd6ea248ecae75f0690f6de011
+run_name: glamorous-doe-225
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764489936449
+status: 3
+tags: []
+user_id: guts

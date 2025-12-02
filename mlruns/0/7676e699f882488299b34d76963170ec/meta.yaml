@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/7676e699f882488299b34d76963170ec/artifacts
+end_time: 1764490211894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7676e699f882488299b34d76963170ec
+run_name: abundant-loon-511
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764490211463
+status: 3
+tags: []
+user_id: guts

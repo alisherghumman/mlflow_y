@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/310ea1ec22fb4c61a8fbc374eaed2196/artifacts
+end_time: 1764489606450
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 310ea1ec22fb4c61a8fbc374eaed2196
+run_name: dapper-yak-476
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764489605981
+status: 3
+tags: []
+user_id: guts

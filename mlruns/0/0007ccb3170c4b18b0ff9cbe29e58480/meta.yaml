@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/0007ccb3170c4b18b0ff9cbe29e58480/artifacts
+end_time: 1764479618643
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0007ccb3170c4b18b0ff9cbe29e58480
+run_name: wise-calf-620
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764479617986
+status: 3
+tags: []
+user_id: guts

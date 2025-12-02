@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/945ebd5e34154f3ab0b60ac885e69b8c/artifacts
+end_time: 1764480565419
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 945ebd5e34154f3ab0b60ac885e69b8c
+run_name: thundering-bird-863
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764480564780
+status: 3
+tags: []
+user_id: guts

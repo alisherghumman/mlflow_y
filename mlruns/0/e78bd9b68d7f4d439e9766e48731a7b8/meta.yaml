@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/0/e78bd9b68d7f4d439e9766e48731a7b8/artifacts
+end_time: 1764479584364
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e78bd9b68d7f4d439e9766e48731a7b8
+run_name: sincere-bird-793
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764479583863
+status: 4
+tags: []
+user_id: guts
