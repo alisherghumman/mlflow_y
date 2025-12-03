@@ -1,0 +1,14 @@
+artifact_uri: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/606099380613864406/d6f38768b6c9427380a710817a306d9e/artifacts
+end_time: 1764668432170
+entry_point_name: ''
+experiment_id: '606099380613864406'
+lifecycle_stage: active
+run_id: d6f38768b6c9427380a710817a306d9e
+run_name: traveling-cat-296
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764668432161
+status: 3
+tags: []
+user_id: guts

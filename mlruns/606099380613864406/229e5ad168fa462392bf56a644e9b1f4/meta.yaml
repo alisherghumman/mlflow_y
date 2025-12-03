@@ -1,0 +1,14 @@
+artifact_uri: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/606099380613864406/229e5ad168fa462392bf56a644e9b1f4/artifacts
+end_time: 1764668320255
+entry_point_name: ''
+experiment_id: '606099380613864406'
+lifecycle_stage: active
+run_id: 229e5ad168fa462392bf56a644e9b1f4
+run_name: puzzled-koi-740
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764668315831
+status: 4
+tags: []
+user_id: guts

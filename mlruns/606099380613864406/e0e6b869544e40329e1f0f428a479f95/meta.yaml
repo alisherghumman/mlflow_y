@@ -1,0 +1,14 @@
+artifact_uri: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/606099380613864406/e0e6b869544e40329e1f0f428a479f95/artifacts
+end_time: 1764668434921
+entry_point_name: ''
+experiment_id: '606099380613864406'
+lifecycle_stage: active
+run_id: e0e6b869544e40329e1f0f428a479f95
+run_name: respected-donkey-737
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764668427515
+status: 3
+tags: []
+user_id: guts

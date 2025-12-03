@@ -1,0 +1,14 @@
+artifact_uri: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/606099380613864406/45f40575adde494b9ddc40c1791b5fb0/artifacts
+end_time: 1764668432180
+entry_point_name: ''
+experiment_id: '606099380613864406'
+lifecycle_stage: active
+run_id: 45f40575adde494b9ddc40c1791b5fb0
+run_name: mercurial-auk-800
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764668432172
+status: 3
+tags: []
+user_id: guts

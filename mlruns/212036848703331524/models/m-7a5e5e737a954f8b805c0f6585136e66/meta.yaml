@@ -1,0 +1,10 @@
+artifact_location: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/212036848703331524/models/m-7a5e5e737a954f8b805c0f6585136e66/artifacts
+creation_timestamp: 1764664041962
+experiment_id: '212036848703331524'
+last_updated_timestamp: 1764664045497
+model_id: m-7a5e5e737a954f8b805c0f6585136e66
+model_type: null
+name: random_forest
+source_run_id: ce08e1bb9fb746598571c1874c8201f9
+status: 2
+status_message: null

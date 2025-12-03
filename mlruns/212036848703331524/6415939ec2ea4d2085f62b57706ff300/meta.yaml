@@ -1,0 +1,14 @@
+artifact_uri: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/212036848703331524/6415939ec2ea4d2085f62b57706ff300/artifacts
+end_time: 1764663996929
+entry_point_name: ''
+experiment_id: '212036848703331524'
+lifecycle_stage: active
+run_id: 6415939ec2ea4d2085f62b57706ff300
+run_name: painted-bird-325
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764663990410
+status: 4
+tags: []
+user_id: guts

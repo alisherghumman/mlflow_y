@@ -1,0 +1,6 @@
+artifact_location: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/212036848703331524
+creation_time: 1764663990336
+experiment_id: '212036848703331524'
+last_update_time: 1764663990336
+lifecycle_stage: active
+name: breast-cancer-rf

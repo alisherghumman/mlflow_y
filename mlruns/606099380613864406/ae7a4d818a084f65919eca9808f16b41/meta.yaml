@@ -1,0 +1,14 @@
+artifact_uri: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/606099380613864406/ae7a4d818a084f65919eca9808f16b41/artifacts
+end_time: 1764668432160
+entry_point_name: ''
+experiment_id: '606099380613864406'
+lifecycle_stage: active
+run_id: ae7a4d818a084f65919eca9808f16b41
+run_name: gifted-rat-237
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764668432152
+status: 3
+tags: []
+user_id: guts

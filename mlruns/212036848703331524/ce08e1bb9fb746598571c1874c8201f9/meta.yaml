@@ -1,0 +1,14 @@
+artifact_uri: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/212036848703331524/ce08e1bb9fb746598571c1874c8201f9/artifacts
+end_time: 1764664045507
+entry_point_name: ''
+experiment_id: '212036848703331524'
+lifecycle_stage: active
+run_id: ce08e1bb9fb746598571c1874c8201f9
+run_name: persistent-ox-234
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764664035623
+status: 3
+tags: []
+user_id: guts

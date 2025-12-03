@@ -1,0 +1,14 @@
+artifact_uri: file:///home/guts/ai_engineering/mlflow/mlflow_y/mlflow_y/mlruns/606099380613864406/b3f746d339704fcab6f5f628d7cb66b7/artifacts
+end_time: 1764668432199
+entry_point_name: ''
+experiment_id: '606099380613864406'
+lifecycle_stage: active
+run_id: b3f746d339704fcab6f5f628d7cb66b7
+run_name: able-robin-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1764668432191
+status: 3
+tags: []
+user_id: guts
